@@ -22,3 +22,4 @@ Para hacer un rectángulo uso la función `rect()`de la siguiente froma:
 
 ```js
 rect(200, 100, 20, 30)
+```
